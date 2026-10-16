@@ -1,0 +1,6 @@
+{
+  "name": "Notify",
+  "description": "Trading analysis tool selection dashboard with Market Structure Shift, Break of Structure, and glassmorphic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
